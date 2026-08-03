@@ -1,0 +1,20 @@
+title: BoroughWorks Connect
+description: Connecting Communities. Moving Students Forward.
+theme: minima
+
+url: "https://adeendames.github.io"
+baseurl: "/boroughworks-connect"
+
+author: BoroughWorks Corporation
+
+logo: /assets/images/logo.svg
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+header_pages:
+  - about.md
+  - mission.md
+  - roadmap.md
+  - contact.md

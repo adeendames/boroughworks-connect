@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="120" viewBox="0 0 600 120" role="img" aria-label="BoroughWorks Connect logo">
+  <defs>
+    <style>
+      .b { fill: #0F4C81; font-family: 'Merriweather', Georgia, serif; font-weight:700; font-size:34px }
+      .t { fill: #2E7D32; font-family: 'Inter', Arial, Helvetica, sans-serif; font-size:14px }
+      .bus { fill: #F4B400 }
+    </style>
+  </defs>
+  <!-- simple bus icon -->
+  <rect x="8" y="32" width="96" height="46" rx="6" class="bus" />
+  <circle cx="28" cy="86" r="8" fill="#333" />
+  <circle cx="76" cy="86" r="8" fill="#333" />
+  <rect x="22" y="42" width="24" height="18" fill="#fff" rx="2" />
+  <!-- text -->
+  <text x="120" y="56" class="b">BoroughWorks Connect</text>
+  <text x="120" y="80" class="t">Connecting Communities. Moving Students Forward.</text>
+</svg>
